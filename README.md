@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Full Stack Projects and SQL Projects
 - 📫 How to reach me www.linkedin.com/in/sergioalvaro
 - ⚡ Fun fact: I like cats.
+  
   ╱|、
 (˚ˎ 。7  
  |、˜〵          
