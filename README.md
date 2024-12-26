@@ -5,7 +5,7 @@
 - 📫 How to reach me www.linkedin.com/in/sergioalvaro
 - ⚡ Fun fact: I like cats.
   
-  ╱|、
+  ╱|
 (˚ˎ 。7  
  |、˜〵          
 じしˍ,)ノ
