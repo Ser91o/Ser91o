@@ -6,7 +6,6 @@
 - ⚡ Fun fact: I like cats.
   
   ╱|
-
 (˚ˎ 。7  
  |、˜〵          
 じしˍ,)ノ
