@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ser91o
+- 👋 Hi, I’m Sergio Alvaro
 - 👀 I’m interested in Programming, IOT, and SQL
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Full Stack Projects and SQL Projects
