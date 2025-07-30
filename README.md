@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Sergio Alvaro
 - 👀 I’m interested in Programming, IOT, and SQL
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning AI and Javascript
 - 💞️ I’m looking to collaborate on Full Stack Projects and SQL Projects
 - 📫 How to reach me www.linkedin.com/in/sergioalvaro
 - ⚡ Fun fact: I like cats.
 
-   ╱|   
+. ╱|   
 (˚ˎ 。7  
  |、˜〵          
 じしˍ,)ノ
